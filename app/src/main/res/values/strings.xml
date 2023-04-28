@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YOLOv8n_cls</string>
+    <string name="textview">TextView</string>
+</resources>
